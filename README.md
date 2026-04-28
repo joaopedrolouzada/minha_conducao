@@ -1,17 +1,29 @@
-# minha_conducao
+#  Minha Condução - Urban Mobility App
 
-A new Flutter project.
+### Project Overview
+**Minha Condução** is a mobile application developed with **Flutter** aimed at improving urban mobility. The app integrates with the **Google Maps API** to provide real-time location tracking and route visualization, helping users navigate public transportation more efficiently.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+###  Tech Stack
+- **Framework:** [Flutter](https://flutter.dev/)
+- **Language:** [Dart](https://dart.dev/)
+- **Backend:** [Firebase](https://firebase.google.com/) (Authentication & Database)
+- **APIs:** Google Maps SDK, Google Places API
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+###  Key Features
+- **Real-time Map:** Interactive map showing the user's current location.
+- **Route Tracking:** Visual representation of transit routes.
+- **Station Search:** Integration with Google Places to find nearby bus stops/stations.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+###  How to Run
+1. Clone the repo: `git clone https://github.com/joaopedrolouzada/minha_conducao.git`
+2. Install dependencies: `flutter pub get`
+3. Run the app: `flutter run`
+
+---
+*Developed as part of my studies in Mobile Development.*
