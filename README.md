@@ -1,6 +1,20 @@
-#  Minha Condução - Urban Mobility App
+# Minha Condução - Urban Mobility App
 
-### Project Overview
+<details>
+  <summary>🌐 Click here for Portuguese / Clique aqui para Português</summary>
+
+  ### Visão Geral do Projeto
+  O **Minha Condução** é um aplicativo móvel desenvolvido com **Flutter** focado em melhorar a mobilidade urbana. O app integra a **API do Google Maps** para fornecer rastreamento de localização em tempo real e visualização de rotas, ajudando usuários a navegarem pelo transporte público de forma mais eficiente.
+
+  ###  Funcionalidades Principais
+  - **Mapa em Tempo Real:** Mapa interativo mostrando a localização atual do usuário.
+  - **Rastreamento de Rotas:** Representação visual das rotas de transporte.
+  - **Busca de Estações:** Integração com Google Places para encontrar pontos de ônibus e estações próximas.
+</details>
+
+---
+
+###  Project Overview
 **Minha Condução** is a mobile application developed with **Flutter** aimed at improving urban mobility. The app integrates with the **Google Maps API** to provide real-time location tracking and route visualization, helping users navigate public transportation more efficiently.
 
 ---
