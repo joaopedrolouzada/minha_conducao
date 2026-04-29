@@ -3,7 +3,7 @@
 <details>
   <summary>🌐 Click here for Portuguese / Clique aqui para Português</summary>
 
-  ### Visão Geral do Projeto
+  ### Visão Geral do Projeto.
   O **Minha Condução** é um aplicativo móvel desenvolvido com **Flutter** focado em melhorar a mobilidade urbana. O app integra a **API do Google Maps** para fornecer rastreamento de localização em tempo real e visualização de rotas, ajudando usuários a navegarem pelo transporte público de forma mais eficiente.
 
   ###  Funcionalidades Principais
